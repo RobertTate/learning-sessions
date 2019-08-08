@@ -2,6 +2,15 @@
 
 Learning sessions create physical accountability between developers to help them pursue structured learning.
 
+## Liturgy
+
+1. Everyone should tell the group what he/she is going to learn
+
+## Principles
+
+- Limited talking/interacting
+- Physical accountability is the goal, not socializing
+
 ## Sessions
 
 ### 2019-08-08
