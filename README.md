@@ -18,6 +18,11 @@ Learning sessions create physical accountability between developers to help them
 - Physical accountability is the goal, not socializing
 - One hour a week
 
+## Curators
+
+- [Ryan Payne](https://github.com/ryanbrookepayne)
+- [Tim Reynolds](https://github.com/reynoldsta)
+
 ## Sessions
 
 ### 2019-08-08
