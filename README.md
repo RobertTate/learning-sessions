@@ -1,4 +1,4 @@
-# Learning Sessions
+# 🤔 Learning Sessions
 
 Learning sessions create physical accountability between developers to help them pursue structured learning.
 
