@@ -10,6 +10,7 @@ Learning sessions create physical accountability between developers to help them
 
 ## Principles
 
+- Specific accountablility - developers should have an actual learning source (e.g. course, podcast, code challenge, etc.) they are working through. "I'm thinking deep thoughts" is not an acceptable answer.
 - Limited talking/interacting
 - Physical accountability is the goal, not socializing
 
