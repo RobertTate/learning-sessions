@@ -7,11 +7,13 @@ Learning sessions create physical accountability between developers to help them
 ## Liturgy
 
 1. Everyone should tell the group what he/she is going to learn
+2. Learn stuff
+3. Schedule the next session
 
 ## Principles
 
 - Specific accountablility - developers should have an actual learning source (e.g. course, podcast, code challenge, etc.) they are working through. "I'm thinking deep thoughts" is not an acceptable answer.
-- Limited talking/interacting
+- Extremely limited talking/interacting (we take this seriously)
 - Physical accountability is the goal, not socializing
 
 ## Sessions
