@@ -8,6 +8,7 @@ Learning sessions create physical accountability between developers to help them
 
 1. Everyone should tell the group what he/she is going to learn (update README)
 2. Learn stuff
+4. Briefly discuss what you learned
 3. Schedule the next session
 
 ## Principles
