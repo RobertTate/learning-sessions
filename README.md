@@ -4,9 +4,11 @@ Learning sessions create physical accountability between developers to help them
 
 > ...employees are beginning to understand that the time and effort they put into continuing education comes back to them for the rest of their careers, because once you learn it, it’s something you can use again and again.
 
+[See Previous Sessions →](./sessions)
+
 ## Liturgy
 
-1. Everyone should tell the group what he/she is going to learn (update README)
+1. Share what you plan to learn with the group (submit PR to newly created session log file)
 2. Learn stuff
 4. Briefly discuss what you learned
 3. Schedule the next session
@@ -22,10 +24,3 @@ Learning sessions create physical accountability between developers to help them
 
 - [Ryan Payne](https://github.com/ryanbrookepayne)
 - [Tim Reynolds](https://github.com/reynoldsta)
-
-## Sessions
-
-### 2019-08-08
-
-- Ryan Payne - [Sequences with David Leeds](https://soundcloud.com/user-38099918/sequences-with-david-leeds)
-- Tim Reynolds - [Object Oriented Design](https://www.coursera.org/learn/object-oriented-design)
