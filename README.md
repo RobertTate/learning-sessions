@@ -19,6 +19,13 @@ Learning sessions create physical accountability between developers to help them
 - Extremely limited talking/interacting (we take this seriously)
 - Physical accountability is the goal, not socializing
 - One hour a week
+- Not limitted to programming specific skills (leadership, communication, etc. are also great uses of your time)
+
+## Suggestions
+
+The following is a list of suggested learning resources you can use during learning sessions:
+
+- [400 free Ivy League university courses you can take online in 2019](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/)
 
 ## Curators
 
