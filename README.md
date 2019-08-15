@@ -24,11 +24,11 @@ We bring people together consistently (once a week for an hour) to reinforce dis
 
 ### Accountability
 
-Physically being in a room with other developers forces a focus that you can manufacture using willpower.
+Physically being in a room with other developers forces a focus that you cannot manufacture using willpower.
 
 ### Focus
 
-This is not a social club full of mindless chitchat. We're focused on learning from experts and seasoned professionals. If you want to talk, save it for the beginning and end sharing parts.
+This is not a social club full of mindless chitchat. We're focused on learning from experts and seasoned professionals. If you want to talk, save it for 🌮 Taco Tuesday (or whatever social gathering you prefer).
 
 ### Professionalism
 
