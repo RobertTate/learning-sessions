@@ -8,7 +8,7 @@ Learning sessions create physical accountability between developers to help them
 
 ## Liturgy
 
-1. Share what you plan to learn and update the session log file
+1. Share what you plan to learn and update [the latest session log file](./sessions)
 2. Learn
 3. Discuss what you learned
 
@@ -44,3 +44,7 @@ The following is a list of suggested learning resources you can use during learn
 
 - [Ryan Payne](https://github.com/ryanbrookepayne)
 - [Tim Reynolds](https://github.com/reynoldsta)
+
+## Participants
+
+- [Bobby Tate](https://github.com/RobertTate)
