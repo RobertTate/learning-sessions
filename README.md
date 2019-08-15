@@ -8,20 +8,33 @@ Learning sessions create physical accountability between developers to help them
 
 ## Liturgy
 
-1. Share what you plan to learn with the group (submit PR to newly created session log file)
-2. Learn stuff
-4. Briefly discuss what you learned
-3. Schedule the next session
+1. Share what you plan to learn and update the session log file
+2. Learn
+3. Discuss what you learned
 
 ## Principles
 
-- Specific accountablility - developers should have an actual learning source (e.g. course, podcast, code challenge, book, etc.) they are working through. "I'm thinking deep thoughts" is not an acceptable answer.
-- Extremely limited talking/interacting (we take this seriously)
-- Physical accountability is the goal, not socializing
-- One hour a week
-- Not limitted to programming specific skills (leadership, communication, etc. are also great uses of your time)
+### Curation
 
-## Suggestions
+"Don't reinvent the wheel". There are already plenty of great courses and learning resources available. Let's simply find the best ones and make them easily accessible.
+
+### Consistency and Discipline
+
+We bring people together consistently (once a week for an hour) to reinforce disciplined learning.
+
+### Accountability
+
+Physically being in a room with other developers forces a focus that you can manufacture using willpower.
+
+### Focus
+
+This is not a social club full of mindless chitchat. We're focused on learning from experts and seasoned professionals. If you want to talk, save it for the beginning and end sharing parts.
+
+### Professionalism
+
+We use actual professional learning resources (courses, books, podcasts, articles, code challenges, etc.). "I'm thinking deep thoughts" is not an acceptable answer.
+
+## Resources
 
 The following is a list of suggested learning resources you can use during learning sessions:
 
