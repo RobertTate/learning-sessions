@@ -1,10 +1,12 @@
 # 🤔 Learning Sessions
 
+🧪 🧫 🥼 An experiment in continuous learning in the workplace.
+
+## Overview
+
 Learning sessions create physical accountability between developers to help them pursue structured learning. Inspired by Seth Godin's [Paid to learn](https://seths.blog/2019/07/paid-to-learn/) blog post:
 
 > ...employees are beginning to understand that the time and effort they put into continuing education comes back to them for the rest of their careers, because once you learn it, it’s something you can use again and again.
-
-[See Previous Sessions →](./sessions)
 
 ## Liturgy
 
